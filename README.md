@@ -1,16 +1,5 @@
 <h3 title="hehehe"> HELLO! 🤠 I'm Silvia</h3>
 
-<a href="https://cz.linkedin.com/in/silvia-koci%C3%A1nov%C3%A1">
-    <img align="left" alt="Zamran's LinkdeIn" width="24px"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/liviavicci">
-    <img align="left" alt="Silvia's Instagram" width="24px"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://liviavicci.com/">
-    <img align="left" alt="Silvia's website" width="24px"
-        src="https://e7.pngegg.com/pngimages/357/433/png-clipart-computer-icons-website-web-design-logo.png" />
 </a>
 <br>
 <br>
@@ -21,7 +10,7 @@
 Hi there, I'm **Silvia Kocianova**, a **Software Development student** 🚀 from Czechia.
 
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/y3wBjXMffuFjy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mic-processing-programming-y3wBjXMffuFjy"></a></p> />
+<img align="right" alt="GIF" src="https://giphy.com/embed/y3wBjXMffuFjy"/>
 
 **About Me!**
 
