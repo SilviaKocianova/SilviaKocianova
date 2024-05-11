@@ -1,11 +1,6 @@
 <h3 title="hehehe"> HELLO! 🤠 I'm Silvia</h3>
-
 </a>
-<br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=SilviaKocianova&color=blueviolet">
-<br />
-<br />
+
 
 Hi there, I'm **Silvia Kocianova**, a **Software Development student** 🚀 from Czechia.
 
@@ -14,7 +9,7 @@ Hi there, I'm **Silvia Kocianova**, a **Software Development student** 🚀 from
 - 🌱 Studying a Bachelor's degree in Software Development
 - 🤔 My passion is photography and filmmaking, been programming since I was a kid and decided to pursue it at uni!
 
-- 📫 Email me at [sissi.kocianova@gmail.com](mailto:sissi.kocianova@gmail.com).
+- 📫 [sissi.kocianova@gmail.com](mailto:sissi.kocianova@gmail.com)
 
 
 **Languages and Tools:**
