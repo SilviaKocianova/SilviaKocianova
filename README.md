@@ -10,9 +10,8 @@
 Hi there, I'm **Silvia Kocianova**, a **Software Development student** 🚀 from Czechia.
 
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/y3wBjXMffuFjy"/>
+<img align="right" alt="GIF" src=<iframe src="https://giphy.com/embed/y3wBjXMffuFjy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mic-processing-programming-y3wBjXMffuFjy">via GIPHY</a></p>/>
 
-**About Me!**
 
 - 👨🏽‍💻 I’m a film school graduate🎥
 - 🌱 Studying a Bachelor's degree in Software Development
