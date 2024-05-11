@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hello 🤠 I'm [Silvia](www.liviavicci.com)</h3>
+<h3 title="hehehe"> Hello 🤠 I'm Silvia</h3>
 </a>
 
 <br>
