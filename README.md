@@ -3,7 +3,7 @@
 </a>
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
+<img src="https://komarev.com/ghpvc/?username=SilviaKocianova&color=blueviolet">
 <br />
 <br />
 
