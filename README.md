@@ -9,7 +9,10 @@
 
 Hi there, I'm **Silvia Kocianova**, a **Software Development student** 🚀 from Czechia.
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQwbHVsOTloMmp4d3lma3BiZ2o3Z3NtaDkyZWhlc3NuMHJpdHplOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y3wBjXMffuFjy/giphy.gif" width = 50/>
+<div style="width: 50%; padding: 10px;">
+    <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQwbHVsOTloMmp4d3lma3BiZ2o3Z3NtaDkyZWhlc3NuMHJpdHplOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y3wBjXMffuFjy/giphy.gif" style="width: 100%;"/>
+</div>
+
 
 - 👨🏽‍💻 I’m a film school graduate🎥
 - 🌱 Studying a Bachelor's degree in Software Development
