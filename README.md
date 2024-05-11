@@ -1,4 +1,4 @@
-<h3 title="hehehe"> HELLO! 🤠 I'm Silvia</h3>
+<h3 title="hehehe"> Hello 🤠 I'm Silvia</h3>
 </a>
 
 
@@ -8,7 +8,9 @@
 
 - 📫 contact: [sissi.kocianova@gmail.com](mailto:sissi.kocianova@gmail.com)
 
-
+<br>
+<br>
+<br>
 **Languages and Tools:**
 
 
