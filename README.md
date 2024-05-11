@@ -2,14 +2,11 @@
 </a>
 
 
-Hi there, I'm **Silvia Kocianova**, a **Software Development student** 🚀 from Czechia.
+- 👨🏽‍💻 Pursuing a Bachelor's degree in Software Development
+- 🎥 Film school graduate 
+- 🌱 Passionate about photography, filmmaking & programming
 
-
-- 👨🏽‍💻 I’m a film school graduate🎥
-- 🌱 Studying a Bachelor's degree in Software Development
-- 🤔 My passion is photography and filmmaking, been programming since I was a kid and decided to pursue it at uni!
-
-- 📫 [sissi.kocianova@gmail.com](mailto:sissi.kocianova@gmail.com)
+- 📫 contact: [sissi.kocianova@gmail.com](mailto:sissi.kocianova@gmail.com)
 
 
 **Languages and Tools:**
