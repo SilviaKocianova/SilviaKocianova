@@ -4,8 +4,6 @@
 <br>
 
 - 👨🏽‍💻 Pursuing a Bachelor's degree in Software Development
-- 🎥 Film school graduate 
-- 🌱 Passionate about photography, filmmaking & programming
 
 - 📫 contact: [sissi.kocianova@gmail.com](mailto:sissi.kocianova@gmail.com)
 
